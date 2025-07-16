@@ -1,0 +1,10 @@
+{
+    "libraries": [
+        {
+            "name": "stacktrace",
+            "description": "Stacktrace information getting library",
+            "version": "0.1.0",
+            "cpp_standard": "03"
+        }
+    ]
+}

@@ -28,6 +28,10 @@ option("enable-tests")
         end
 
         add_files("tests/test.cpp")
+
+        on_install(function (target)
+        
+        end)
     target_end()
 option_end()
 
